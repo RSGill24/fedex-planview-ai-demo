@@ -1,0 +1,801 @@
+logbookId,projectId,logType,logStatus,severity,ownerName,createdDate,resolvedDate,summaryText,sourceSystem
+LB-00001,PJ-300-03-04,Risk,Blocked,Critical,K. Davis,2026-07-16,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00002,PJ-200-03-04,Risk,Mitigated,Critical,K. Davis,2026-07-24,2026-09-07,Security review pending for integration approach,SyntheticPlanview
+LB-00003,PJ-100-02-04,Decision,Mitigated,Medium,K. Davis,2026-06-12,2026-06-28,Security review pending for integration approach,SyntheticPlanview
+LB-00004,PJ-200-02-05,Dependency,Closed,Critical,L. Brown,2026-01-19,2026-02-27,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00005,PJ-300-03-05,Risk,Blocked,High,K. Davis,2026-04-18,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00006,PJ-300-02-04,Risk,Open,Medium,K. Davis,2026-06-13,,Change request approved by steering group,SyntheticPlanview
+LB-00007,PJ-200-02-03,Risk,Blocked,Critical,R. Patel,2026-02-12,,Security review pending for integration approach,SyntheticPlanview
+LB-00008,PJ-100-02-02,Decision,Open,Medium,L. Brown,2026-01-03,,Change request approved by steering group,SyntheticPlanview
+LB-00009,PJ-300-01-04,Assumption,Blocked,Medium,S. Jones,2026-05-23,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00010,PJ-200-03-01,Assumption,Blocked,Medium,R. Patel,2026-04-29,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00011,PJ-300-01-01,Risk,Mitigated,Low,K. Davis,2026-01-27,2026-02-23,Data mapping requires architecture decision,SyntheticPlanview
+LB-00012,PJ-200-02-03,Issue,Mitigated,Critical,R. Patel,2026-03-21,2026-04-20,Security review pending for integration approach,SyntheticPlanview
+LB-00013,PJ-100-02-02,Risk,Closed,High,A. Smith,2026-04-23,2026-05-14,Change request approved by steering group,SyntheticPlanview
+LB-00014,PJ-100-02-03,Risk,Mitigated,Medium,K. Davis,2026-01-06,2026-02-17,Data mapping requires architecture decision,SyntheticPlanview
+LB-00015,PJ-300-01-04,Issue,Blocked,High,L. Brown,2026-02-14,,Security review pending for integration approach,SyntheticPlanview
+LB-00016,PJ-200-03-05,Issue,Closed,Medium,K. Davis,2026-03-01,2026-04-11,Change request approved by steering group,SyntheticPlanview
+LB-00017,PJ-200-03-03,Assumption,Open,Medium,S. Jones,2026-04-12,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00018,PJ-200-03-03,Issue,Open,Medium,R. Patel,2026-04-10,,Change request approved by steering group,SyntheticPlanview
+LB-00019,PJ-100-01-05,Assumption,Open,Medium,R. Patel,2026-05-28,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00020,PJ-100-03-03,Decision,Open,Critical,L. Brown,2026-04-28,,Change request approved by steering group,SyntheticPlanview
+LB-00021,PJ-200-02-01,Dependency,Closed,Low,R. Patel,2026-06-02,2026-07-12,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00022,PJ-200-03-05,Decision,In Review,Low,K. Davis,2026-06-08,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00023,PJ-200-02-01,Decision,In Review,Low,M. Chen,2026-01-31,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00024,PJ-300-03-05,Dependency,Blocked,Critical,L. Brown,2026-02-06,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00025,PJ-300-02-02,Dependency,Closed,Medium,L. Brown,2026-04-09,2026-04-21,Data mapping requires architecture decision,SyntheticPlanview
+LB-00026,PJ-300-01-02,Issue,In Review,High,S. Jones,2026-03-15,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00027,PJ-100-01-04,Dependency,Mitigated,Medium,M. Chen,2026-08-10,2026-08-11,Security review pending for integration approach,SyntheticPlanview
+LB-00028,PJ-300-02-01,Dependency,Closed,Critical,K. Davis,2026-05-10,2026-06-06,Security review pending for integration approach,SyntheticPlanview
+LB-00029,PJ-300-01-02,Assumption,Open,Low,M. Chen,2026-02-12,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00030,PJ-100-01-03,Assumption,In Review,High,M. Chen,2026-03-12,,Security review pending for integration approach,SyntheticPlanview
+LB-00031,PJ-300-02-02,Assumption,Closed,Low,L. Brown,2026-07-10,2026-08-15,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00032,PJ-200-01-03,Decision,Blocked,Low,K. Davis,2026-07-18,,Security review pending for integration approach,SyntheticPlanview
+LB-00033,PJ-300-01-05,Issue,Closed,High,A. Smith,2026-02-25,2026-03-04,Security review pending for integration approach,SyntheticPlanview
+LB-00034,PJ-200-01-02,Dependency,Open,Low,M. Chen,2026-03-31,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00035,PJ-300-02-03,Dependency,Mitigated,Medium,L. Brown,2026-06-26,2026-08-05,Data mapping requires architecture decision,SyntheticPlanview
+LB-00036,PJ-100-03-04,Risk,In Review,High,L. Brown,2026-07-28,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00037,PJ-300-02-04,Decision,In Review,High,R. Patel,2026-05-18,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00038,PJ-200-01-03,Risk,Blocked,Medium,S. Jones,2026-08-08,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00039,PJ-200-01-03,Issue,In Review,Medium,M. Chen,2026-08-10,,Change request approved by steering group,SyntheticPlanview
+LB-00040,PJ-200-02-01,Dependency,In Review,Critical,M. Chen,2026-08-01,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00041,PJ-300-03-01,Dependency,Closed,Low,K. Davis,2026-03-10,2026-04-04,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00042,PJ-200-03-01,Decision,Mitigated,Critical,S. Jones,2026-05-12,2026-06-26,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00043,PJ-300-02-03,Dependency,Open,High,A. Smith,2026-01-01,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00044,PJ-200-03-01,Dependency,Closed,High,R. Patel,2026-02-25,2026-03-11,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00045,PJ-200-02-02,Issue,Blocked,Critical,R. Patel,2026-05-21,,Change request approved by steering group,SyntheticPlanview
+LB-00046,PJ-100-01-04,Dependency,Open,Low,A. Smith,2026-01-12,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00047,PJ-200-03-04,Dependency,Open,Medium,K. Davis,2026-04-27,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00048,PJ-300-03-02,Decision,In Review,Low,K. Davis,2026-03-19,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00049,PJ-200-01-02,Issue,Mitigated,Low,S. Jones,2026-01-22,2026-03-06,Change request approved by steering group,SyntheticPlanview
+LB-00050,PJ-200-01-05,Dependency,In Review,Low,K. Davis,2026-07-05,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00051,PJ-100-01-01,Issue,Closed,Medium,L. Brown,2026-02-24,2026-03-01,Change request approved by steering group,SyntheticPlanview
+LB-00052,PJ-200-03-04,Decision,Open,Low,S. Jones,2026-01-03,,Change request approved by steering group,SyntheticPlanview
+LB-00053,PJ-100-02-04,Issue,Open,Critical,A. Smith,2026-05-03,,Change request approved by steering group,SyntheticPlanview
+LB-00054,PJ-100-02-02,Decision,Mitigated,Medium,S. Jones,2026-01-27,2026-02-20,Data mapping requires architecture decision,SyntheticPlanview
+LB-00055,PJ-300-03-02,Risk,In Review,Low,L. Brown,2026-06-23,,Change request approved by steering group,SyntheticPlanview
+LB-00056,PJ-100-03-01,Issue,Mitigated,Critical,L. Brown,2026-04-23,2026-05-07,Change request approved by steering group,SyntheticPlanview
+LB-00057,PJ-200-03-04,Risk,In Review,Low,M. Chen,2026-08-09,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00058,PJ-300-02-03,Dependency,Closed,High,M. Chen,2026-07-06,2026-07-29,Data mapping requires architecture decision,SyntheticPlanview
+LB-00059,PJ-200-01-03,Issue,Open,High,K. Davis,2026-06-15,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00060,PJ-300-03-03,Assumption,Mitigated,Medium,K. Davis,2026-08-13,2026-08-27,Security review pending for integration approach,SyntheticPlanview
+LB-00061,PJ-200-01-04,Issue,Open,Critical,S. Jones,2026-06-15,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00062,PJ-200-01-01,Risk,Blocked,Low,R. Patel,2026-05-08,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00063,PJ-100-02-04,Dependency,Blocked,High,L. Brown,2026-04-10,,Change request approved by steering group,SyntheticPlanview
+LB-00064,PJ-100-03-02,Risk,Closed,Low,A. Smith,2026-07-15,2026-07-20,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00065,PJ-100-03-04,Dependency,Open,High,K. Davis,2026-01-11,,Change request approved by steering group,SyntheticPlanview
+LB-00066,PJ-300-01-03,Dependency,Closed,Low,K. Davis,2026-07-16,2026-08-13,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00067,PJ-300-01-05,Decision,In Review,Low,R. Patel,2026-06-07,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00068,PJ-300-01-03,Issue,In Review,High,S. Jones,2026-08-24,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00069,PJ-300-03-01,Decision,Open,Critical,K. Davis,2026-07-15,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00070,PJ-100-01-04,Dependency,Open,Low,S. Jones,2026-03-04,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00071,PJ-300-02-04,Issue,Mitigated,Low,A. Smith,2026-01-15,2026-02-27,Change request approved by steering group,SyntheticPlanview
+LB-00072,PJ-100-02-04,Issue,Open,Critical,R. Patel,2026-06-29,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00073,PJ-300-01-04,Decision,Mitigated,Medium,K. Davis,2026-07-20,2026-07-31,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00074,PJ-100-02-03,Decision,Open,Critical,R. Patel,2026-07-17,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00075,PJ-100-01-05,Risk,Blocked,Critical,S. Jones,2026-03-09,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00076,PJ-200-02-04,Issue,Closed,High,M. Chen,2026-01-15,2026-02-21,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00077,PJ-100-02-02,Risk,Blocked,Medium,K. Davis,2026-08-17,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00078,PJ-100-01-01,Issue,Open,Low,S. Jones,2026-01-12,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00079,PJ-200-02-05,Issue,In Review,Low,L. Brown,2026-08-24,,Change request approved by steering group,SyntheticPlanview
+LB-00080,PJ-300-03-02,Decision,In Review,Medium,S. Jones,2026-04-18,,Change request approved by steering group,SyntheticPlanview
+LB-00081,PJ-200-02-01,Assumption,Open,High,A. Smith,2026-03-11,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00082,PJ-300-03-04,Issue,Open,Medium,L. Brown,2026-08-19,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00083,PJ-200-03-01,Decision,Closed,High,A. Smith,2026-01-18,2026-02-06,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00084,PJ-200-03-05,Decision,Mitigated,High,K. Davis,2026-01-03,2026-01-16,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00085,PJ-200-01-01,Dependency,Mitigated,Medium,K. Davis,2026-04-29,2026-06-06,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00086,PJ-200-01-01,Dependency,Open,Low,M. Chen,2026-02-08,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00087,PJ-200-02-03,Decision,Open,Low,K. Davis,2026-06-12,,Security review pending for integration approach,SyntheticPlanview
+LB-00088,PJ-200-01-05,Assumption,In Review,Medium,S. Jones,2026-01-27,,Security review pending for integration approach,SyntheticPlanview
+LB-00089,PJ-100-01-04,Risk,Mitigated,Medium,L. Brown,2026-02-06,2026-02-12,Security review pending for integration approach,SyntheticPlanview
+LB-00090,PJ-300-03-05,Risk,Mitigated,Low,L. Brown,2026-08-18,2026-09-17,Data mapping requires architecture decision,SyntheticPlanview
+LB-00091,PJ-300-03-01,Assumption,Closed,Low,S. Jones,2026-07-29,2026-08-03,Change request approved by steering group,SyntheticPlanview
+LB-00092,PJ-100-02-04,Decision,Mitigated,Critical,K. Davis,2026-03-02,2026-03-19,Change request approved by steering group,SyntheticPlanview
+LB-00093,PJ-200-02-01,Issue,Closed,Low,M. Chen,2026-03-23,2026-04-10,Data mapping requires architecture decision,SyntheticPlanview
+LB-00094,PJ-300-02-03,Risk,In Review,Medium,S. Jones,2026-01-28,,Security review pending for integration approach,SyntheticPlanview
+LB-00095,PJ-200-02-01,Assumption,Open,High,M. Chen,2026-04-15,,Security review pending for integration approach,SyntheticPlanview
+LB-00096,PJ-200-01-05,Risk,Mitigated,Medium,K. Davis,2026-04-29,2026-05-07,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00097,PJ-300-03-05,Issue,Open,High,M. Chen,2026-06-04,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00098,PJ-200-01-01,Risk,Closed,High,R. Patel,2026-04-02,2026-05-05,Data mapping requires architecture decision,SyntheticPlanview
+LB-00099,PJ-100-01-02,Assumption,Closed,Medium,A. Smith,2026-04-14,2026-05-20,Security review pending for integration approach,SyntheticPlanview
+LB-00100,PJ-100-02-02,Risk,In Review,Low,A. Smith,2026-07-25,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00101,PJ-100-02-04,Risk,Closed,High,A. Smith,2026-02-20,2026-03-16,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00102,PJ-100-01-05,Risk,Closed,High,A. Smith,2026-02-20,2026-03-01,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00103,PJ-200-03-05,Assumption,In Review,Critical,K. Davis,2026-01-13,,Security review pending for integration approach,SyntheticPlanview
+LB-00104,PJ-300-01-02,Dependency,Closed,Medium,R. Patel,2026-01-08,2026-02-21,Data mapping requires architecture decision,SyntheticPlanview
+LB-00105,PJ-100-03-02,Issue,Mitigated,Low,L. Brown,2026-03-12,2026-04-10,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00106,PJ-300-02-05,Dependency,Mitigated,Critical,A. Smith,2026-03-04,2026-04-05,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00107,PJ-200-01-03,Dependency,In Review,Medium,K. Davis,2026-04-09,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00108,PJ-200-01-01,Risk,Blocked,Critical,K. Davis,2026-06-11,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00109,PJ-300-01-01,Assumption,Closed,High,S. Jones,2026-05-20,2026-06-12,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00110,PJ-100-03-02,Issue,Mitigated,Low,R. Patel,2026-01-07,2026-02-15,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00111,PJ-300-01-01,Issue,Mitigated,Medium,A. Smith,2026-05-16,2026-06-23,Data mapping requires architecture decision,SyntheticPlanview
+LB-00112,PJ-300-03-03,Risk,Mitigated,Medium,L. Brown,2026-03-03,2026-04-07,Security review pending for integration approach,SyntheticPlanview
+LB-00113,PJ-200-02-03,Issue,In Review,Medium,L. Brown,2026-08-28,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00114,PJ-300-03-05,Risk,Blocked,High,L. Brown,2026-04-02,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00115,PJ-100-02-05,Dependency,In Review,High,M. Chen,2026-05-25,,Security review pending for integration approach,SyntheticPlanview
+LB-00116,PJ-100-01-03,Issue,Open,Medium,A. Smith,2026-01-24,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00117,PJ-300-01-01,Issue,Mitigated,Medium,R. Patel,2026-01-01,2026-02-10,Change request approved by steering group,SyntheticPlanview
+LB-00118,PJ-100-03-02,Risk,Mitigated,Medium,L. Brown,2026-08-24,2026-08-28,Change request approved by steering group,SyntheticPlanview
+LB-00119,PJ-100-02-05,Assumption,Open,High,A. Smith,2026-07-18,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00120,PJ-300-03-03,Risk,Blocked,High,R. Patel,2026-04-12,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00121,PJ-100-02-04,Dependency,Closed,High,M. Chen,2026-02-10,2026-03-23,Change request approved by steering group,SyntheticPlanview
+LB-00122,PJ-300-02-01,Decision,Blocked,Medium,K. Davis,2026-06-27,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00123,PJ-100-03-02,Decision,Mitigated,Medium,M. Chen,2026-04-07,2026-05-22,Change request approved by steering group,SyntheticPlanview
+LB-00124,PJ-100-01-01,Dependency,Blocked,Low,M. Chen,2026-06-29,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00125,PJ-200-02-01,Issue,Blocked,Low,S. Jones,2026-08-24,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00126,PJ-200-02-02,Issue,Open,High,R. Patel,2026-07-10,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00127,PJ-300-03-01,Decision,Open,Critical,A. Smith,2026-08-15,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00128,PJ-100-03-04,Decision,Open,High,A. Smith,2026-03-05,,Change request approved by steering group,SyntheticPlanview
+LB-00129,PJ-100-01-01,Dependency,Closed,Medium,S. Jones,2026-01-13,2026-02-11,Security review pending for integration approach,SyntheticPlanview
+LB-00130,PJ-200-02-05,Dependency,Blocked,Low,S. Jones,2026-03-31,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00131,PJ-300-03-02,Issue,In Review,Critical,A. Smith,2026-07-14,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00132,PJ-200-01-04,Risk,Mitigated,Low,R. Patel,2026-01-06,2026-01-23,Data mapping requires architecture decision,SyntheticPlanview
+LB-00133,PJ-200-02-05,Assumption,Open,Low,R. Patel,2026-02-11,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00134,PJ-300-02-05,Dependency,Closed,Medium,L. Brown,2026-08-17,2026-08-19,Security review pending for integration approach,SyntheticPlanview
+LB-00135,PJ-100-03-01,Decision,Open,Medium,M. Chen,2026-01-14,,Security review pending for integration approach,SyntheticPlanview
+LB-00136,PJ-300-03-05,Decision,Blocked,High,R. Patel,2026-05-22,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00137,PJ-100-02-02,Assumption,Closed,Critical,M. Chen,2026-01-13,2026-02-19,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00138,PJ-200-02-04,Decision,Closed,Critical,M. Chen,2026-01-01,2026-01-07,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00139,PJ-100-01-02,Decision,In Review,Low,S. Jones,2026-02-22,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00140,PJ-200-01-05,Dependency,Closed,High,A. Smith,2026-07-20,2026-08-20,Change request approved by steering group,SyntheticPlanview
+LB-00141,PJ-300-01-05,Decision,In Review,Critical,R. Patel,2026-04-10,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00142,PJ-200-03-04,Dependency,Mitigated,High,M. Chen,2026-01-12,2026-02-10,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00143,PJ-300-02-02,Risk,In Review,Low,K. Davis,2026-01-16,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00144,PJ-300-01-05,Issue,Blocked,Low,S. Jones,2026-04-16,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00145,PJ-200-03-02,Issue,Closed,Critical,R. Patel,2026-05-18,2026-06-24,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00146,PJ-200-03-01,Assumption,Open,Medium,A. Smith,2026-08-20,,Security review pending for integration approach,SyntheticPlanview
+LB-00147,PJ-100-03-02,Issue,In Review,Medium,A. Smith,2026-02-12,,Security review pending for integration approach,SyntheticPlanview
+LB-00148,PJ-100-02-01,Issue,Closed,High,R. Patel,2026-06-24,2026-07-07,Change request approved by steering group,SyntheticPlanview
+LB-00149,PJ-100-01-05,Dependency,Closed,High,R. Patel,2026-01-23,2026-02-28,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00150,PJ-200-03-05,Assumption,Open,Critical,A. Smith,2026-08-23,,Security review pending for integration approach,SyntheticPlanview
+LB-00151,PJ-100-02-05,Assumption,Blocked,Low,A. Smith,2026-02-07,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00152,PJ-100-02-02,Decision,Mitigated,Critical,R. Patel,2026-07-21,2026-08-25,Security review pending for integration approach,SyntheticPlanview
+LB-00153,PJ-300-03-02,Assumption,Blocked,Critical,A. Smith,2026-05-05,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00154,PJ-200-01-03,Assumption,In Review,Critical,A. Smith,2026-04-14,,Security review pending for integration approach,SyntheticPlanview
+LB-00155,PJ-200-02-02,Risk,In Review,Critical,R. Patel,2026-06-26,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00156,PJ-100-01-02,Decision,Mitigated,Critical,K. Davis,2026-03-28,2026-04-17,Change request approved by steering group,SyntheticPlanview
+LB-00157,PJ-100-02-02,Issue,In Review,High,K. Davis,2026-08-11,,Security review pending for integration approach,SyntheticPlanview
+LB-00158,PJ-200-02-01,Risk,Closed,Medium,S. Jones,2026-03-10,2026-04-18,Data mapping requires architecture decision,SyntheticPlanview
+LB-00159,PJ-200-03-02,Decision,Closed,Low,L. Brown,2026-07-09,2026-08-12,Data mapping requires architecture decision,SyntheticPlanview
+LB-00160,PJ-100-01-05,Dependency,Blocked,Medium,L. Brown,2026-03-21,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00161,PJ-100-01-02,Issue,In Review,Low,M. Chen,2026-02-14,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00162,PJ-200-03-05,Decision,Mitigated,High,S. Jones,2026-01-13,2026-01-26,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00163,PJ-200-03-01,Risk,Open,Medium,R. Patel,2026-06-12,,Security review pending for integration approach,SyntheticPlanview
+LB-00164,PJ-300-02-04,Dependency,In Review,High,R. Patel,2026-04-25,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00165,PJ-200-01-02,Decision,Open,Low,S. Jones,2026-07-11,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00166,PJ-100-03-01,Issue,Blocked,Medium,K. Davis,2026-08-07,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00167,PJ-300-03-04,Dependency,Mitigated,Low,K. Davis,2026-02-22,2026-04-05,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00168,PJ-300-01-01,Issue,In Review,Low,M. Chen,2026-08-22,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00169,PJ-300-02-04,Decision,Mitigated,Critical,S. Jones,2026-07-26,2026-09-06,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00170,PJ-200-03-05,Dependency,In Review,High,K. Davis,2026-03-06,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00171,PJ-300-02-05,Risk,Blocked,Low,L. Brown,2026-04-12,,Change request approved by steering group,SyntheticPlanview
+LB-00172,PJ-200-02-04,Assumption,Blocked,High,R. Patel,2026-05-24,,Change request approved by steering group,SyntheticPlanview
+LB-00173,PJ-100-02-02,Decision,Open,High,K. Davis,2026-05-04,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00174,PJ-200-01-03,Issue,Mitigated,Medium,A. Smith,2026-03-08,2026-03-21,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00175,PJ-200-03-01,Issue,Mitigated,Low,K. Davis,2026-06-19,2026-08-02,Security review pending for integration approach,SyntheticPlanview
+LB-00176,PJ-200-01-04,Dependency,Closed,Low,L. Brown,2026-03-08,2026-04-03,Change request approved by steering group,SyntheticPlanview
+LB-00177,PJ-300-02-02,Decision,In Review,Medium,K. Davis,2026-07-28,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00178,PJ-300-03-01,Decision,Closed,High,M. Chen,2026-07-20,2026-09-01,Change request approved by steering group,SyntheticPlanview
+LB-00179,PJ-300-02-01,Dependency,Mitigated,Medium,K. Davis,2026-02-16,2026-02-23,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00180,PJ-300-02-01,Decision,In Review,Low,M. Chen,2026-07-15,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00181,PJ-100-03-05,Decision,Mitigated,High,R. Patel,2026-07-10,2026-08-06,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00182,PJ-200-01-04,Dependency,Open,Low,K. Davis,2026-04-29,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00183,PJ-300-02-03,Dependency,Open,Medium,L. Brown,2026-06-08,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00184,PJ-300-03-04,Decision,Blocked,Critical,A. Smith,2026-04-08,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00185,PJ-100-02-04,Assumption,Mitigated,Critical,M. Chen,2026-02-21,2026-03-20,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00186,PJ-100-03-02,Dependency,Open,High,K. Davis,2026-07-19,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00187,PJ-200-02-01,Risk,Open,Critical,R. Patel,2026-06-12,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00188,PJ-100-03-01,Dependency,In Review,Low,M. Chen,2026-05-28,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00189,PJ-200-03-03,Dependency,Closed,Critical,S. Jones,2026-06-12,2026-07-08,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00190,PJ-100-01-03,Decision,In Review,Low,R. Patel,2026-05-17,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00191,PJ-100-03-03,Issue,Open,Medium,K. Davis,2026-01-05,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00192,PJ-200-01-05,Dependency,Open,High,M. Chen,2026-02-03,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00193,PJ-100-01-03,Assumption,Mitigated,High,S. Jones,2026-03-18,2026-04-17,Change request approved by steering group,SyntheticPlanview
+LB-00194,PJ-100-02-04,Issue,Closed,Medium,S. Jones,2026-03-29,2026-04-21,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00195,PJ-100-03-05,Issue,In Review,Low,L. Brown,2026-02-27,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00196,PJ-100-03-01,Risk,Mitigated,Critical,K. Davis,2026-02-01,2026-03-15,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00197,PJ-300-01-05,Assumption,Open,Low,K. Davis,2026-06-09,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00198,PJ-300-03-02,Risk,Open,Low,S. Jones,2026-08-03,,Security review pending for integration approach,SyntheticPlanview
+LB-00199,PJ-200-02-05,Decision,Blocked,Critical,K. Davis,2026-02-01,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00200,PJ-100-03-04,Decision,Open,Critical,K. Davis,2026-06-27,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00201,PJ-300-03-03,Assumption,Mitigated,Medium,S. Jones,2026-05-14,2026-06-23,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00202,PJ-300-01-03,Risk,Blocked,High,A. Smith,2026-07-04,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00203,PJ-300-01-02,Issue,Blocked,High,L. Brown,2026-02-20,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00204,PJ-200-02-03,Issue,Closed,Low,L. Brown,2026-06-30,2026-07-19,Security review pending for integration approach,SyntheticPlanview
+LB-00205,PJ-100-03-04,Issue,Closed,Low,A. Smith,2026-06-26,2026-07-18,Change request approved by steering group,SyntheticPlanview
+LB-00206,PJ-100-02-01,Assumption,Open,Critical,M. Chen,2026-08-21,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00207,PJ-300-01-03,Decision,Open,Medium,S. Jones,2026-01-20,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00208,PJ-200-01-02,Risk,Open,Medium,A. Smith,2026-04-29,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00209,PJ-200-02-04,Risk,Mitigated,Low,A. Smith,2026-07-25,2026-08-22,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00210,PJ-100-02-04,Decision,In Review,High,S. Jones,2026-06-19,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00211,PJ-200-01-03,Decision,Open,High,M. Chen,2026-08-13,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00212,PJ-200-03-01,Dependency,Closed,Critical,S. Jones,2026-04-13,2026-05-01,Change request approved by steering group,SyntheticPlanview
+LB-00213,PJ-100-03-01,Risk,In Review,Medium,A. Smith,2026-01-29,,Security review pending for integration approach,SyntheticPlanview
+LB-00214,PJ-300-02-03,Dependency,Blocked,Medium,L. Brown,2026-05-04,,Security review pending for integration approach,SyntheticPlanview
+LB-00215,PJ-200-02-03,Issue,Open,Critical,S. Jones,2026-06-06,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00216,PJ-200-03-02,Risk,Open,High,K. Davis,2026-04-23,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00217,PJ-100-01-01,Assumption,Blocked,Medium,K. Davis,2026-06-30,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00218,PJ-300-01-04,Risk,Blocked,Critical,K. Davis,2026-05-14,,Change request approved by steering group,SyntheticPlanview
+LB-00219,PJ-200-01-01,Dependency,Mitigated,Medium,L. Brown,2026-05-04,2026-06-16,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00220,PJ-100-01-04,Assumption,In Review,Critical,S. Jones,2026-01-03,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00221,PJ-100-01-05,Issue,Closed,High,R. Patel,2026-07-12,2026-08-02,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00222,PJ-300-01-03,Dependency,Blocked,Critical,M. Chen,2026-02-27,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00223,PJ-200-03-05,Dependency,Blocked,Low,S. Jones,2026-04-24,,Security review pending for integration approach,SyntheticPlanview
+LB-00224,PJ-200-02-01,Risk,Closed,Low,S. Jones,2026-01-31,2026-03-14,Security review pending for integration approach,SyntheticPlanview
+LB-00225,PJ-100-01-03,Risk,Blocked,Low,L. Brown,2026-05-23,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00226,PJ-300-03-01,Assumption,Blocked,Medium,K. Davis,2026-03-19,,Change request approved by steering group,SyntheticPlanview
+LB-00227,PJ-200-03-05,Issue,Mitigated,Critical,R. Patel,2026-03-29,2026-04-02,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00228,PJ-300-02-05,Decision,Closed,Critical,A. Smith,2026-06-03,2026-07-16,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00229,PJ-300-03-03,Decision,Open,High,K. Davis,2026-02-26,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00230,PJ-300-02-01,Risk,Mitigated,Low,M. Chen,2026-05-14,2026-06-28,Security review pending for integration approach,SyntheticPlanview
+LB-00231,PJ-100-02-04,Decision,Closed,Medium,M. Chen,2026-07-30,2026-08-06,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00232,PJ-200-03-01,Decision,Closed,Low,S. Jones,2026-02-25,2026-03-10,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00233,PJ-300-03-01,Risk,Blocked,Critical,S. Jones,2026-08-03,,Change request approved by steering group,SyntheticPlanview
+LB-00234,PJ-300-02-03,Dependency,In Review,Low,L. Brown,2026-05-10,,Change request approved by steering group,SyntheticPlanview
+LB-00235,PJ-100-01-04,Dependency,Closed,Medium,K. Davis,2026-05-22,2026-06-29,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00236,PJ-100-03-02,Risk,In Review,Critical,K. Davis,2026-07-07,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00237,PJ-300-02-04,Dependency,Mitigated,Critical,L. Brown,2026-08-14,2026-09-16,Change request approved by steering group,SyntheticPlanview
+LB-00238,PJ-200-01-01,Decision,Closed,Critical,M. Chen,2026-03-12,2026-04-03,Data mapping requires architecture decision,SyntheticPlanview
+LB-00239,PJ-200-03-02,Decision,Blocked,High,K. Davis,2026-06-04,,Change request approved by steering group,SyntheticPlanview
+LB-00240,PJ-300-02-01,Issue,In Review,Medium,L. Brown,2026-06-11,,Change request approved by steering group,SyntheticPlanview
+LB-00241,PJ-200-01-04,Issue,Mitigated,Medium,L. Brown,2026-06-25,2026-08-08,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00242,PJ-300-03-05,Decision,Mitigated,Critical,L. Brown,2026-06-13,2026-06-21,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00243,PJ-300-03-03,Assumption,Closed,High,S. Jones,2026-07-01,2026-08-14,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00244,PJ-300-01-04,Dependency,Open,Medium,A. Smith,2026-01-28,,Change request approved by steering group,SyntheticPlanview
+LB-00245,PJ-100-01-04,Decision,Mitigated,High,M. Chen,2026-02-21,2026-03-04,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00246,PJ-300-03-05,Assumption,Mitigated,Low,R. Patel,2026-07-20,2026-08-03,Security review pending for integration approach,SyntheticPlanview
+LB-00247,PJ-100-02-02,Issue,Blocked,Critical,M. Chen,2026-06-07,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00248,PJ-300-03-05,Dependency,Open,Critical,S. Jones,2026-03-15,,Change request approved by steering group,SyntheticPlanview
+LB-00249,PJ-200-02-01,Risk,Open,High,M. Chen,2026-05-22,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00250,PJ-200-03-04,Decision,In Review,Medium,K. Davis,2026-08-01,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00251,PJ-200-01-04,Risk,In Review,Medium,M. Chen,2026-04-25,,Change request approved by steering group,SyntheticPlanview
+LB-00252,PJ-300-01-03,Dependency,Closed,High,L. Brown,2026-01-31,2026-02-03,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00253,PJ-100-02-04,Decision,Blocked,Low,R. Patel,2026-02-11,,Security review pending for integration approach,SyntheticPlanview
+LB-00254,PJ-100-02-05,Decision,In Review,Low,K. Davis,2026-01-11,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00255,PJ-300-03-03,Assumption,Closed,High,A. Smith,2026-03-19,2026-04-25,Change request approved by steering group,SyntheticPlanview
+LB-00256,PJ-200-02-01,Issue,In Review,Low,L. Brown,2026-05-15,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00257,PJ-200-03-02,Dependency,Blocked,Low,R. Patel,2026-05-20,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00258,PJ-100-03-04,Decision,Mitigated,High,M. Chen,2026-06-19,2026-07-11,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00259,PJ-300-01-04,Risk,Blocked,Low,K. Davis,2026-05-02,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00260,PJ-200-03-04,Assumption,Blocked,Medium,A. Smith,2026-03-03,,Change request approved by steering group,SyntheticPlanview
+LB-00261,PJ-200-02-01,Dependency,Open,High,L. Brown,2026-04-08,,Change request approved by steering group,SyntheticPlanview
+LB-00262,PJ-200-01-04,Decision,Blocked,Critical,S. Jones,2026-01-07,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00263,PJ-200-01-04,Decision,In Review,Low,A. Smith,2026-08-18,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00264,PJ-300-01-05,Risk,Open,Medium,K. Davis,2026-05-17,,Change request approved by steering group,SyntheticPlanview
+LB-00265,PJ-100-03-04,Issue,Closed,Critical,K. Davis,2026-08-10,2026-08-17,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00266,PJ-300-03-04,Dependency,Open,High,A. Smith,2026-02-09,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00267,PJ-100-01-05,Decision,In Review,Low,L. Brown,2026-01-14,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00268,PJ-200-01-02,Dependency,Closed,Critical,R. Patel,2026-04-15,2026-05-14,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00269,PJ-200-02-05,Assumption,Open,Low,K. Davis,2026-06-22,,Change request approved by steering group,SyntheticPlanview
+LB-00270,PJ-300-02-05,Risk,Blocked,Low,R. Patel,2026-01-17,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00271,PJ-100-02-02,Risk,Mitigated,High,S. Jones,2026-03-16,2026-04-24,Security review pending for integration approach,SyntheticPlanview
+LB-00272,PJ-200-03-01,Dependency,Open,Medium,L. Brown,2026-07-30,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00273,PJ-100-02-04,Decision,Closed,Medium,R. Patel,2026-07-11,2026-08-15,Change request approved by steering group,SyntheticPlanview
+LB-00274,PJ-300-03-02,Assumption,Open,Medium,A. Smith,2026-04-06,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00275,PJ-100-01-01,Dependency,Blocked,Low,R. Patel,2026-05-27,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00276,PJ-200-02-03,Assumption,Closed,Medium,M. Chen,2026-02-24,2026-04-07,Data mapping requires architecture decision,SyntheticPlanview
+LB-00277,PJ-100-03-05,Risk,Mitigated,Medium,K. Davis,2026-06-07,2026-06-20,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00278,PJ-100-01-04,Dependency,Blocked,Low,R. Patel,2026-08-06,,Change request approved by steering group,SyntheticPlanview
+LB-00279,PJ-100-01-05,Issue,Open,Critical,R. Patel,2026-03-06,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00280,PJ-100-02-04,Risk,In Review,High,L. Brown,2026-06-21,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00281,PJ-100-03-03,Decision,Closed,High,K. Davis,2026-03-23,2026-04-21,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00282,PJ-100-02-05,Decision,Blocked,High,S. Jones,2026-05-25,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00283,PJ-100-01-01,Issue,In Review,Critical,R. Patel,2026-03-22,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00284,PJ-100-02-04,Dependency,Mitigated,Critical,R. Patel,2026-06-23,2026-07-24,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00285,PJ-300-01-02,Issue,Open,Low,R. Patel,2026-05-22,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00286,PJ-300-01-05,Risk,Mitigated,Low,A. Smith,2026-02-20,2026-04-02,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00287,PJ-300-03-01,Assumption,Blocked,Critical,L. Brown,2026-01-08,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00288,PJ-100-01-03,Assumption,Mitigated,Critical,K. Davis,2026-05-22,2026-06-26,Data mapping requires architecture decision,SyntheticPlanview
+LB-00289,PJ-200-02-04,Assumption,In Review,High,M. Chen,2026-04-11,,Security review pending for integration approach,SyntheticPlanview
+LB-00290,PJ-300-01-03,Dependency,Open,High,L. Brown,2026-05-11,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00291,PJ-300-03-03,Issue,Blocked,Medium,S. Jones,2026-03-03,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00292,PJ-100-03-02,Issue,Blocked,Critical,R. Patel,2026-05-25,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00293,PJ-100-03-05,Risk,Closed,High,R. Patel,2026-07-14,2026-07-29,Data mapping requires architecture decision,SyntheticPlanview
+LB-00294,PJ-100-01-03,Assumption,In Review,High,S. Jones,2026-06-21,,Security review pending for integration approach,SyntheticPlanview
+LB-00295,PJ-200-03-05,Risk,Open,High,A. Smith,2026-08-14,,Change request approved by steering group,SyntheticPlanview
+LB-00296,PJ-300-01-04,Assumption,Mitigated,Medium,S. Jones,2026-06-12,2026-06-29,Change request approved by steering group,SyntheticPlanview
+LB-00297,PJ-200-02-05,Risk,Blocked,High,S. Jones,2026-04-04,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00298,PJ-300-01-04,Dependency,Mitigated,Critical,L. Brown,2026-04-14,2026-05-07,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00299,PJ-300-01-03,Dependency,In Review,Medium,M. Chen,2026-08-14,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00300,PJ-300-01-03,Issue,Mitigated,Medium,M. Chen,2026-06-14,2026-06-28,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00301,PJ-300-02-04,Issue,Open,Critical,R. Patel,2026-07-03,,Change request approved by steering group,SyntheticPlanview
+LB-00302,PJ-100-02-03,Issue,Closed,Medium,K. Davis,2026-05-04,2026-06-04,Security review pending for integration approach,SyntheticPlanview
+LB-00303,PJ-100-01-02,Issue,Open,Medium,M. Chen,2026-03-04,,Change request approved by steering group,SyntheticPlanview
+LB-00304,PJ-300-01-03,Issue,Blocked,Low,M. Chen,2026-01-11,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00305,PJ-100-03-02,Assumption,Closed,Low,K. Davis,2026-05-13,2026-06-21,Change request approved by steering group,SyntheticPlanview
+LB-00306,PJ-300-03-03,Issue,Mitigated,Critical,L. Brown,2026-07-30,2026-08-05,Security review pending for integration approach,SyntheticPlanview
+LB-00307,PJ-300-01-01,Dependency,In Review,Medium,L. Brown,2026-02-13,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00308,PJ-300-02-05,Decision,Blocked,Medium,K. Davis,2026-06-18,,Change request approved by steering group,SyntheticPlanview
+LB-00309,PJ-200-02-02,Assumption,Closed,Low,M. Chen,2026-08-25,2026-10-03,Security review pending for integration approach,SyntheticPlanview
+LB-00310,PJ-200-02-05,Risk,Open,Medium,L. Brown,2026-02-03,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00311,PJ-300-03-04,Assumption,In Review,Low,M. Chen,2026-04-18,,Security review pending for integration approach,SyntheticPlanview
+LB-00312,PJ-300-02-05,Assumption,Open,Low,A. Smith,2026-06-03,,Security review pending for integration approach,SyntheticPlanview
+LB-00313,PJ-300-03-03,Assumption,Blocked,Low,K. Davis,2026-02-03,,Change request approved by steering group,SyntheticPlanview
+LB-00314,PJ-200-03-03,Risk,Closed,Critical,M. Chen,2026-05-14,2026-06-07,Security review pending for integration approach,SyntheticPlanview
+LB-00315,PJ-200-02-05,Assumption,Blocked,Low,S. Jones,2026-03-31,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00316,PJ-200-01-02,Risk,In Review,High,L. Brown,2026-05-03,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00317,PJ-200-03-02,Risk,In Review,Low,L. Brown,2026-03-07,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00318,PJ-100-02-03,Dependency,Open,Medium,K. Davis,2026-05-14,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00319,PJ-200-03-02,Issue,Open,Critical,K. Davis,2026-04-03,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00320,PJ-200-01-02,Dependency,Blocked,High,L. Brown,2026-03-08,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00321,PJ-300-03-04,Dependency,In Review,Critical,M. Chen,2026-04-12,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00322,PJ-300-02-01,Decision,Closed,High,K. Davis,2026-05-23,2026-06-09,Security review pending for integration approach,SyntheticPlanview
+LB-00323,PJ-100-02-04,Issue,Open,Critical,K. Davis,2026-08-07,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00324,PJ-100-02-02,Dependency,Blocked,High,L. Brown,2026-02-24,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00325,PJ-300-03-05,Issue,Open,Critical,K. Davis,2026-06-25,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00326,PJ-100-02-01,Dependency,In Review,Critical,A. Smith,2026-07-30,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00327,PJ-200-01-02,Assumption,Mitigated,Low,K. Davis,2026-02-26,2026-03-04,Security review pending for integration approach,SyntheticPlanview
+LB-00328,PJ-200-03-01,Decision,Blocked,Low,M. Chen,2026-06-07,,Change request approved by steering group,SyntheticPlanview
+LB-00329,PJ-300-01-02,Issue,Open,High,M. Chen,2026-04-23,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00330,PJ-300-02-04,Issue,Blocked,Medium,K. Davis,2026-05-11,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00331,PJ-200-02-04,Issue,Open,Low,R. Patel,2026-03-03,,Security review pending for integration approach,SyntheticPlanview
+LB-00332,PJ-200-02-03,Assumption,Closed,Medium,L. Brown,2026-06-21,2026-07-17,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00333,PJ-100-01-05,Assumption,Open,High,K. Davis,2026-08-24,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00334,PJ-300-02-03,Issue,Mitigated,Medium,S. Jones,2026-03-31,2026-04-18,Security review pending for integration approach,SyntheticPlanview
+LB-00335,PJ-300-02-02,Dependency,Mitigated,Low,L. Brown,2026-01-02,2026-01-14,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00336,PJ-300-01-03,Assumption,Mitigated,High,L. Brown,2026-03-17,2026-03-25,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00337,PJ-200-01-02,Assumption,Closed,Critical,M. Chen,2026-06-27,2026-07-22,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00338,PJ-200-03-05,Risk,Closed,Critical,A. Smith,2026-06-24,2026-08-01,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00339,PJ-100-01-05,Issue,In Review,High,S. Jones,2026-04-08,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00340,PJ-300-01-04,Decision,Open,Medium,R. Patel,2026-05-18,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00341,PJ-200-03-01,Assumption,Mitigated,Medium,S. Jones,2026-06-22,2026-06-27,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00342,PJ-200-02-03,Decision,Blocked,Medium,K. Davis,2026-02-25,,Change request approved by steering group,SyntheticPlanview
+LB-00343,PJ-100-03-03,Issue,In Review,Medium,R. Patel,2026-05-08,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00344,PJ-100-03-05,Assumption,In Review,High,M. Chen,2026-02-21,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00345,PJ-100-02-03,Dependency,Open,Low,L. Brown,2026-08-24,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00346,PJ-300-01-01,Decision,Blocked,Critical,L. Brown,2026-04-06,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00347,PJ-300-01-02,Decision,Blocked,Critical,M. Chen,2026-02-16,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00348,PJ-100-02-04,Dependency,Blocked,Critical,L. Brown,2026-01-14,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00349,PJ-300-01-03,Issue,Closed,Critical,A. Smith,2026-03-30,2026-05-13,Change request approved by steering group,SyntheticPlanview
+LB-00350,PJ-300-01-04,Risk,Mitigated,Low,K. Davis,2026-04-28,2026-06-12,Data mapping requires architecture decision,SyntheticPlanview
+LB-00351,PJ-200-02-05,Decision,Open,High,L. Brown,2026-05-29,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00352,PJ-100-03-02,Decision,Mitigated,Critical,L. Brown,2026-05-21,2026-06-06,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00353,PJ-200-02-04,Issue,Closed,Critical,K. Davis,2026-02-17,2026-03-17,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00354,PJ-200-02-04,Dependency,Closed,Medium,L. Brown,2026-08-07,2026-08-25,Data mapping requires architecture decision,SyntheticPlanview
+LB-00355,PJ-300-02-02,Risk,In Review,High,M. Chen,2026-06-25,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00356,PJ-200-03-03,Issue,Closed,Medium,S. Jones,2026-08-08,2026-08-21,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00357,PJ-100-03-02,Assumption,Closed,High,S. Jones,2026-04-18,2026-04-27,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00358,PJ-200-01-02,Risk,Blocked,Critical,A. Smith,2026-05-24,,Change request approved by steering group,SyntheticPlanview
+LB-00359,PJ-100-03-01,Decision,In Review,Critical,K. Davis,2026-01-16,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00360,PJ-200-03-04,Decision,Mitigated,High,L. Brown,2026-07-10,2026-07-27,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00361,PJ-200-01-02,Dependency,Open,Low,R. Patel,2026-03-30,,Change request approved by steering group,SyntheticPlanview
+LB-00362,PJ-300-02-04,Assumption,Blocked,Medium,R. Patel,2026-02-20,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00363,PJ-200-02-01,Dependency,Blocked,Critical,A. Smith,2026-06-22,,Security review pending for integration approach,SyntheticPlanview
+LB-00364,PJ-300-02-05,Issue,Closed,Medium,K. Davis,2026-03-15,2026-04-25,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00365,PJ-200-03-02,Assumption,Blocked,Critical,A. Smith,2026-06-11,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00366,PJ-100-03-01,Decision,In Review,High,K. Davis,2026-03-29,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00367,PJ-200-01-03,Dependency,Closed,High,K. Davis,2026-06-04,2026-06-22,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00368,PJ-300-01-04,Issue,Closed,Low,M. Chen,2026-04-26,2026-05-07,Change request approved by steering group,SyntheticPlanview
+LB-00369,PJ-200-01-01,Risk,Mitigated,Medium,M. Chen,2026-06-19,2026-08-03,Security review pending for integration approach,SyntheticPlanview
+LB-00370,PJ-100-02-02,Dependency,Open,Low,A. Smith,2026-01-25,,Security review pending for integration approach,SyntheticPlanview
+LB-00371,PJ-300-01-04,Risk,Open,High,L. Brown,2026-07-15,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00372,PJ-100-02-01,Issue,Closed,Medium,K. Davis,2026-06-17,2026-07-07,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00373,PJ-200-03-04,Issue,In Review,Medium,A. Smith,2026-06-10,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00374,PJ-300-03-03,Dependency,Mitigated,High,L. Brown,2026-04-02,2026-05-03,Security review pending for integration approach,SyntheticPlanview
+LB-00375,PJ-100-02-04,Issue,Blocked,Critical,K. Davis,2026-06-28,,Change request approved by steering group,SyntheticPlanview
+LB-00376,PJ-300-03-01,Dependency,Blocked,High,R. Patel,2026-08-13,,Security review pending for integration approach,SyntheticPlanview
+LB-00377,PJ-300-01-05,Dependency,Open,High,R. Patel,2026-02-28,,Security review pending for integration approach,SyntheticPlanview
+LB-00378,PJ-200-01-02,Risk,Mitigated,Medium,R. Patel,2026-02-09,2026-02-10,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00379,PJ-300-01-01,Dependency,Open,Critical,R. Patel,2026-05-17,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00380,PJ-200-03-03,Issue,Mitigated,Low,L. Brown,2026-07-24,2026-09-01,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00381,PJ-100-03-03,Dependency,Blocked,Critical,M. Chen,2026-04-16,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00382,PJ-300-03-02,Decision,Closed,Low,S. Jones,2026-04-10,2026-04-25,Change request approved by steering group,SyntheticPlanview
+LB-00383,PJ-200-01-01,Decision,Blocked,High,K. Davis,2026-05-13,,Change request approved by steering group,SyntheticPlanview
+LB-00384,PJ-300-01-05,Issue,Mitigated,Low,M. Chen,2026-07-27,2026-08-23,Data mapping requires architecture decision,SyntheticPlanview
+LB-00385,PJ-200-01-04,Dependency,Closed,High,K. Davis,2026-01-29,2026-03-10,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00386,PJ-300-01-02,Issue,Mitigated,Low,L. Brown,2026-02-18,2026-02-20,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00387,PJ-100-03-02,Issue,Mitigated,Critical,K. Davis,2026-01-27,2026-02-14,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00388,PJ-100-03-05,Risk,In Review,Critical,M. Chen,2026-01-24,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00389,PJ-200-03-02,Dependency,Closed,Low,R. Patel,2026-03-21,2026-04-14,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00390,PJ-100-02-05,Risk,Mitigated,Critical,M. Chen,2026-01-15,2026-02-10,Data mapping requires architecture decision,SyntheticPlanview
+LB-00391,PJ-200-01-02,Risk,Closed,Medium,S. Jones,2026-07-29,2026-07-30,Security review pending for integration approach,SyntheticPlanview
+LB-00392,PJ-200-01-01,Issue,Open,Critical,K. Davis,2026-07-08,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00393,PJ-300-01-04,Dependency,In Review,Critical,K. Davis,2026-06-20,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00394,PJ-200-02-01,Assumption,Open,Low,R. Patel,2026-02-10,,Security review pending for integration approach,SyntheticPlanview
+LB-00395,PJ-300-03-01,Decision,In Review,Low,K. Davis,2026-03-18,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00396,PJ-100-02-03,Risk,Closed,Medium,R. Patel,2026-03-02,2026-03-23,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00397,PJ-100-02-03,Risk,In Review,Low,L. Brown,2026-04-12,,Change request approved by steering group,SyntheticPlanview
+LB-00398,PJ-300-01-01,Issue,Blocked,High,A. Smith,2026-06-26,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00399,PJ-100-03-01,Assumption,Open,High,K. Davis,2026-05-08,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00400,PJ-100-01-04,Assumption,In Review,Low,M. Chen,2026-04-02,,Security review pending for integration approach,SyntheticPlanview
+LB-00401,PJ-100-03-05,Decision,Blocked,Critical,K. Davis,2026-03-23,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00402,PJ-100-01-02,Issue,Closed,High,A. Smith,2026-06-26,2026-07-19,Security review pending for integration approach,SyntheticPlanview
+LB-00403,PJ-200-03-04,Dependency,Mitigated,Medium,L. Brown,2026-05-24,2026-06-28,Data mapping requires architecture decision,SyntheticPlanview
+LB-00404,PJ-300-01-05,Decision,Mitigated,Medium,A. Smith,2026-03-31,2026-04-30,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00405,PJ-100-02-05,Assumption,Mitigated,High,S. Jones,2026-04-26,2026-05-13,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00406,PJ-300-03-01,Risk,Closed,High,L. Brown,2026-05-10,2026-05-22,Data mapping requires architecture decision,SyntheticPlanview
+LB-00407,PJ-200-02-01,Assumption,Open,Critical,M. Chen,2026-07-04,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00408,PJ-300-03-04,Issue,Blocked,High,R. Patel,2026-05-08,,Security review pending for integration approach,SyntheticPlanview
+LB-00409,PJ-300-03-02,Risk,Open,Low,A. Smith,2026-03-24,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00410,PJ-100-03-02,Issue,Open,Low,S. Jones,2026-08-12,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00411,PJ-100-02-02,Dependency,Blocked,Critical,L. Brown,2026-01-09,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00412,PJ-300-03-05,Decision,Mitigated,Medium,L. Brown,2026-06-01,2026-06-05,Change request approved by steering group,SyntheticPlanview
+LB-00413,PJ-100-01-05,Dependency,In Review,Low,S. Jones,2026-01-04,,Change request approved by steering group,SyntheticPlanview
+LB-00414,PJ-100-01-04,Dependency,Blocked,High,K. Davis,2026-04-03,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00415,PJ-300-02-05,Risk,Blocked,Low,R. Patel,2026-03-10,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00416,PJ-100-03-04,Risk,Open,Medium,L. Brown,2026-05-13,,Security review pending for integration approach,SyntheticPlanview
+LB-00417,PJ-100-03-03,Issue,Blocked,Medium,L. Brown,2026-02-19,,Change request approved by steering group,SyntheticPlanview
+LB-00418,PJ-300-02-01,Assumption,Open,High,K. Davis,2026-04-17,,Security review pending for integration approach,SyntheticPlanview
+LB-00419,PJ-300-03-05,Issue,Closed,Medium,L. Brown,2026-06-20,2026-06-27,Security review pending for integration approach,SyntheticPlanview
+LB-00420,PJ-300-01-03,Assumption,In Review,Critical,R. Patel,2026-03-28,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00421,PJ-300-02-01,Dependency,Mitigated,High,L. Brown,2026-03-25,2026-04-21,Data mapping requires architecture decision,SyntheticPlanview
+LB-00422,PJ-300-02-02,Dependency,In Review,High,R. Patel,2026-05-20,,Security review pending for integration approach,SyntheticPlanview
+LB-00423,PJ-200-03-04,Risk,Open,High,L. Brown,2026-04-12,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00424,PJ-300-01-04,Decision,Mitigated,Medium,M. Chen,2026-02-04,2026-02-05,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00425,PJ-100-01-02,Assumption,Mitigated,Medium,A. Smith,2026-07-17,2026-08-22,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00426,PJ-200-03-05,Issue,In Review,High,R. Patel,2026-04-02,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00427,PJ-200-01-01,Risk,Mitigated,Critical,L. Brown,2026-03-01,2026-03-21,Data mapping requires architecture decision,SyntheticPlanview
+LB-00428,PJ-100-01-05,Issue,Mitigated,Critical,K. Davis,2026-07-05,2026-08-05,Change request approved by steering group,SyntheticPlanview
+LB-00429,PJ-300-02-02,Assumption,Open,High,A. Smith,2026-07-29,,Change request approved by steering group,SyntheticPlanview
+LB-00430,PJ-300-02-02,Risk,Open,High,R. Patel,2026-04-08,,Security review pending for integration approach,SyntheticPlanview
+LB-00431,PJ-200-03-02,Issue,Open,Low,K. Davis,2026-08-27,,Change request approved by steering group,SyntheticPlanview
+LB-00432,PJ-200-02-05,Risk,Mitigated,High,L. Brown,2026-01-14,2026-02-17,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00433,PJ-100-02-05,Issue,Blocked,Medium,A. Smith,2026-03-25,,Change request approved by steering group,SyntheticPlanview
+LB-00434,PJ-200-03-01,Assumption,Blocked,Low,M. Chen,2026-04-25,,Security review pending for integration approach,SyntheticPlanview
+LB-00435,PJ-200-01-04,Issue,Closed,High,A. Smith,2026-07-21,2026-07-31,Security review pending for integration approach,SyntheticPlanview
+LB-00436,PJ-300-02-02,Assumption,Open,Critical,R. Patel,2026-07-10,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00437,PJ-200-03-01,Issue,Closed,Medium,S. Jones,2026-05-09,2026-06-23,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00438,PJ-100-03-03,Assumption,Closed,Medium,L. Brown,2026-05-05,2026-06-16,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00439,PJ-300-01-04,Risk,In Review,High,S. Jones,2026-03-05,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00440,PJ-300-03-04,Risk,Blocked,Low,K. Davis,2026-08-25,,Security review pending for integration approach,SyntheticPlanview
+LB-00441,PJ-200-03-03,Decision,Mitigated,High,L. Brown,2026-04-04,2026-04-17,Change request approved by steering group,SyntheticPlanview
+LB-00442,PJ-100-01-02,Decision,Mitigated,Critical,L. Brown,2026-07-17,2026-07-28,Data mapping requires architecture decision,SyntheticPlanview
+LB-00443,PJ-200-03-04,Issue,In Review,High,M. Chen,2026-01-12,,Change request approved by steering group,SyntheticPlanview
+LB-00444,PJ-100-02-01,Issue,Open,Medium,R. Patel,2026-01-29,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00445,PJ-200-02-02,Decision,Open,Critical,S. Jones,2026-06-27,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00446,PJ-200-02-02,Issue,Blocked,Medium,L. Brown,2026-02-23,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00447,PJ-200-01-02,Issue,Closed,Low,S. Jones,2026-05-21,2026-06-30,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00448,PJ-300-03-03,Decision,Open,Medium,A. Smith,2026-05-15,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00449,PJ-100-03-03,Decision,Blocked,Low,S. Jones,2026-07-22,,Change request approved by steering group,SyntheticPlanview
+LB-00450,PJ-100-01-01,Decision,Closed,High,A. Smith,2026-01-18,2026-03-02,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00451,PJ-200-01-04,Dependency,Closed,Low,R. Patel,2026-08-11,2026-08-26,Security review pending for integration approach,SyntheticPlanview
+LB-00452,PJ-300-02-04,Issue,Open,Medium,L. Brown,2026-05-17,,Security review pending for integration approach,SyntheticPlanview
+LB-00453,PJ-300-02-01,Risk,Open,Medium,L. Brown,2026-08-26,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00454,PJ-200-02-02,Risk,Closed,High,K. Davis,2026-05-06,2026-05-17,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00455,PJ-200-02-03,Assumption,Mitigated,High,A. Smith,2026-06-10,2026-06-26,Change request approved by steering group,SyntheticPlanview
+LB-00456,PJ-200-01-02,Assumption,Closed,High,M. Chen,2026-08-13,2026-08-15,Data mapping requires architecture decision,SyntheticPlanview
+LB-00457,PJ-200-02-02,Issue,Closed,Low,K. Davis,2026-08-18,2026-09-30,Security review pending for integration approach,SyntheticPlanview
+LB-00458,PJ-300-01-04,Issue,Blocked,Critical,M. Chen,2026-06-23,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00459,PJ-100-02-05,Decision,Mitigated,Critical,L. Brown,2026-04-20,2026-05-29,Data mapping requires architecture decision,SyntheticPlanview
+LB-00460,PJ-100-03-04,Assumption,In Review,Medium,M. Chen,2026-06-17,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00461,PJ-300-03-05,Issue,Blocked,Critical,M. Chen,2026-06-30,,Change request approved by steering group,SyntheticPlanview
+LB-00462,PJ-300-02-02,Decision,In Review,Low,L. Brown,2026-08-23,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00463,PJ-100-02-03,Risk,Mitigated,High,S. Jones,2026-02-17,2026-02-27,Security review pending for integration approach,SyntheticPlanview
+LB-00464,PJ-200-01-05,Issue,Mitigated,Low,M. Chen,2026-04-24,2026-05-04,Data mapping requires architecture decision,SyntheticPlanview
+LB-00465,PJ-100-01-02,Assumption,Blocked,High,L. Brown,2026-07-15,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00466,PJ-300-02-05,Issue,Blocked,Medium,K. Davis,2026-03-01,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00467,PJ-200-02-03,Assumption,Closed,Critical,K. Davis,2026-01-21,2026-01-30,Change request approved by steering group,SyntheticPlanview
+LB-00468,PJ-200-02-04,Dependency,Closed,Medium,M. Chen,2026-02-17,2026-03-21,Data mapping requires architecture decision,SyntheticPlanview
+LB-00469,PJ-100-03-05,Decision,Closed,Critical,M. Chen,2026-01-09,2026-01-10,Change request approved by steering group,SyntheticPlanview
+LB-00470,PJ-300-03-03,Risk,In Review,Medium,S. Jones,2026-02-21,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00471,PJ-300-01-02,Issue,Mitigated,Critical,S. Jones,2026-06-26,2026-07-26,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00472,PJ-300-02-04,Dependency,Closed,Low,L. Brown,2026-07-08,2026-07-29,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00473,PJ-200-03-04,Issue,Open,Critical,K. Davis,2026-04-27,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00474,PJ-300-02-01,Risk,Blocked,Medium,R. Patel,2026-04-10,,Security review pending for integration approach,SyntheticPlanview
+LB-00475,PJ-200-03-01,Dependency,Mitigated,Medium,S. Jones,2026-08-15,2026-09-03,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00476,PJ-300-02-05,Assumption,Open,Medium,S. Jones,2026-08-24,,Change request approved by steering group,SyntheticPlanview
+LB-00477,PJ-200-03-04,Risk,Blocked,Medium,L. Brown,2026-01-24,,Change request approved by steering group,SyntheticPlanview
+LB-00478,PJ-300-01-05,Decision,Closed,Critical,A. Smith,2026-02-04,2026-03-03,Data mapping requires architecture decision,SyntheticPlanview
+LB-00479,PJ-200-03-05,Dependency,In Review,Low,R. Patel,2026-06-01,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00480,PJ-300-03-05,Risk,In Review,Low,A. Smith,2026-06-16,,Change request approved by steering group,SyntheticPlanview
+LB-00481,PJ-200-03-04,Assumption,Mitigated,Critical,K. Davis,2026-06-12,2026-06-18,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00482,PJ-300-02-05,Dependency,Closed,Low,M. Chen,2026-02-10,2026-03-18,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00483,PJ-300-02-02,Issue,In Review,Medium,M. Chen,2026-08-12,,Change request approved by steering group,SyntheticPlanview
+LB-00484,PJ-100-01-04,Dependency,Mitigated,High,K. Davis,2026-04-18,2026-05-08,Data mapping requires architecture decision,SyntheticPlanview
+LB-00485,PJ-100-02-03,Issue,In Review,Low,L. Brown,2026-08-19,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00486,PJ-100-01-01,Assumption,Closed,Low,L. Brown,2026-04-28,2026-05-30,Security review pending for integration approach,SyntheticPlanview
+LB-00487,PJ-200-01-01,Dependency,Blocked,Critical,S. Jones,2026-02-25,,Security review pending for integration approach,SyntheticPlanview
+LB-00488,PJ-100-02-01,Risk,Blocked,Medium,L. Brown,2026-06-03,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00489,PJ-300-02-05,Issue,Blocked,Low,M. Chen,2026-06-10,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00490,PJ-100-01-04,Issue,Mitigated,Low,K. Davis,2026-06-17,2026-06-20,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00491,PJ-300-02-04,Risk,Mitigated,Low,S. Jones,2026-03-18,2026-03-24,Data mapping requires architecture decision,SyntheticPlanview
+LB-00492,PJ-100-03-01,Assumption,Mitigated,Medium,S. Jones,2026-06-22,2026-08-01,Change request approved by steering group,SyntheticPlanview
+LB-00493,PJ-300-02-03,Risk,Open,High,R. Patel,2026-04-03,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00494,PJ-200-02-05,Dependency,Open,Low,R. Patel,2026-07-29,,Security review pending for integration approach,SyntheticPlanview
+LB-00495,PJ-100-02-04,Assumption,Mitigated,Critical,L. Brown,2026-02-01,2026-02-23,Data mapping requires architecture decision,SyntheticPlanview
+LB-00496,PJ-300-03-05,Risk,Blocked,Low,L. Brown,2026-02-23,,Change request approved by steering group,SyntheticPlanview
+LB-00497,PJ-300-03-01,Dependency,Open,High,S. Jones,2026-05-16,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00498,PJ-200-02-01,Assumption,Blocked,High,M. Chen,2026-03-08,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00499,PJ-300-02-02,Dependency,Blocked,Critical,M. Chen,2026-05-08,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00500,PJ-100-03-05,Risk,Mitigated,Low,A. Smith,2026-07-01,2026-07-14,Security review pending for integration approach,SyntheticPlanview
+LB-00501,PJ-300-03-01,Issue,Open,Critical,S. Jones,2026-07-23,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00502,PJ-200-02-02,Issue,Blocked,Low,K. Davis,2026-03-31,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00503,PJ-300-03-05,Decision,Mitigated,High,L. Brown,2026-03-14,2026-03-19,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00504,PJ-200-02-01,Risk,Open,High,R. Patel,2026-07-16,,Security review pending for integration approach,SyntheticPlanview
+LB-00505,PJ-300-02-02,Issue,Open,Medium,R. Patel,2026-06-07,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00506,PJ-300-03-04,Issue,Closed,Critical,M. Chen,2026-05-03,2026-05-06,Change request approved by steering group,SyntheticPlanview
+LB-00507,PJ-200-03-05,Decision,Blocked,Critical,S. Jones,2026-08-17,,Change request approved by steering group,SyntheticPlanview
+LB-00508,PJ-100-01-04,Decision,Blocked,High,L. Brown,2026-08-02,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00509,PJ-100-01-02,Decision,Blocked,High,A. Smith,2026-02-23,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00510,PJ-200-01-03,Decision,Open,Critical,K. Davis,2026-08-04,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00511,PJ-100-03-01,Dependency,Blocked,Medium,L. Brown,2026-05-27,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00512,PJ-200-01-05,Decision,Mitigated,Critical,A. Smith,2026-06-30,2026-07-03,Security review pending for integration approach,SyntheticPlanview
+LB-00513,PJ-200-01-01,Issue,Closed,High,M. Chen,2026-04-06,2026-04-26,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00514,PJ-200-02-04,Issue,Open,Low,S. Jones,2026-07-20,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00515,PJ-100-01-02,Issue,Closed,Medium,R. Patel,2026-07-24,2026-08-26,Security review pending for integration approach,SyntheticPlanview
+LB-00516,PJ-300-01-04,Risk,Mitigated,Medium,M. Chen,2026-03-21,2026-03-31,Change request approved by steering group,SyntheticPlanview
+LB-00517,PJ-100-01-03,Risk,Closed,Low,R. Patel,2026-04-28,2026-06-01,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00518,PJ-300-03-04,Risk,Blocked,High,S. Jones,2026-08-06,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00519,PJ-100-02-02,Assumption,Mitigated,High,K. Davis,2026-05-14,2026-05-16,Data mapping requires architecture decision,SyntheticPlanview
+LB-00520,PJ-200-02-01,Decision,In Review,High,L. Brown,2026-02-21,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00521,PJ-200-03-04,Decision,Open,Medium,M. Chen,2026-06-21,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00522,PJ-100-02-03,Assumption,Blocked,Low,M. Chen,2026-01-04,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00523,PJ-200-02-03,Issue,Mitigated,High,L. Brown,2026-05-21,2026-06-08,Data mapping requires architecture decision,SyntheticPlanview
+LB-00524,PJ-100-03-01,Decision,Mitigated,Critical,A. Smith,2026-01-19,2026-02-28,Data mapping requires architecture decision,SyntheticPlanview
+LB-00525,PJ-100-01-02,Risk,Open,Critical,A. Smith,2026-05-01,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00526,PJ-200-03-03,Assumption,In Review,Critical,L. Brown,2026-04-11,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00527,PJ-200-01-05,Assumption,In Review,Low,S. Jones,2026-03-27,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00528,PJ-100-02-04,Dependency,Closed,High,K. Davis,2026-01-24,2026-01-31,Change request approved by steering group,SyntheticPlanview
+LB-00529,PJ-200-03-05,Issue,In Review,Medium,L. Brown,2026-05-01,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00530,PJ-200-02-04,Decision,In Review,High,S. Jones,2026-04-11,,Security review pending for integration approach,SyntheticPlanview
+LB-00531,PJ-100-01-02,Decision,Closed,Critical,S. Jones,2026-01-17,2026-01-25,Data mapping requires architecture decision,SyntheticPlanview
+LB-00532,PJ-200-01-04,Assumption,Mitigated,Medium,L. Brown,2026-07-16,2026-08-24,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00533,PJ-200-03-01,Decision,Open,Low,R. Patel,2026-07-29,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00534,PJ-200-03-05,Dependency,Blocked,Medium,L. Brown,2026-04-13,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00535,PJ-300-02-01,Risk,Closed,High,M. Chen,2026-02-10,2026-03-07,Change request approved by steering group,SyntheticPlanview
+LB-00536,PJ-300-02-03,Decision,Closed,Medium,M. Chen,2026-04-21,2026-05-28,Change request approved by steering group,SyntheticPlanview
+LB-00537,PJ-300-03-03,Dependency,Blocked,Low,L. Brown,2026-01-20,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00538,PJ-200-03-05,Risk,Blocked,Critical,M. Chen,2026-03-25,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00539,PJ-200-03-01,Risk,Blocked,Critical,R. Patel,2026-01-18,,Security review pending for integration approach,SyntheticPlanview
+LB-00540,PJ-300-03-02,Risk,Open,Medium,M. Chen,2026-06-19,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00541,PJ-300-03-01,Issue,Open,Medium,S. Jones,2026-07-27,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00542,PJ-200-01-04,Assumption,Blocked,Critical,M. Chen,2026-04-10,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00543,PJ-300-03-04,Assumption,Mitigated,High,S. Jones,2026-08-13,2026-09-02,Change request approved by steering group,SyntheticPlanview
+LB-00544,PJ-200-02-03,Risk,Blocked,Critical,M. Chen,2026-01-23,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00545,PJ-100-01-04,Risk,Blocked,Low,K. Davis,2026-04-05,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00546,PJ-200-02-03,Issue,Mitigated,Critical,K. Davis,2026-01-29,2026-01-31,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00547,PJ-200-03-01,Dependency,Mitigated,Critical,S. Jones,2026-06-10,2026-07-05,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00548,PJ-100-03-04,Dependency,In Review,Medium,M. Chen,2026-06-19,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00549,PJ-200-02-05,Issue,Mitigated,High,K. Davis,2026-08-04,2026-08-31,Data mapping requires architecture decision,SyntheticPlanview
+LB-00550,PJ-100-02-04,Risk,Open,Medium,K. Davis,2026-01-03,,Security review pending for integration approach,SyntheticPlanview
+LB-00551,PJ-300-03-03,Risk,In Review,Medium,K. Davis,2026-04-22,,Security review pending for integration approach,SyntheticPlanview
+LB-00552,PJ-200-03-05,Dependency,Blocked,Medium,S. Jones,2026-08-17,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00553,PJ-200-03-03,Decision,Closed,Medium,M. Chen,2026-05-22,2026-06-16,Security review pending for integration approach,SyntheticPlanview
+LB-00554,PJ-300-02-04,Dependency,Blocked,Medium,K. Davis,2026-01-02,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00555,PJ-200-01-03,Assumption,Blocked,High,A. Smith,2026-04-16,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00556,PJ-300-02-02,Assumption,Mitigated,Critical,K. Davis,2026-05-04,2026-05-12,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00557,PJ-100-02-05,Decision,Blocked,Critical,L. Brown,2026-07-06,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00558,PJ-300-01-04,Risk,Blocked,Medium,S. Jones,2026-08-16,,Change request approved by steering group,SyntheticPlanview
+LB-00559,PJ-300-03-03,Assumption,Open,High,L. Brown,2026-06-21,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00560,PJ-200-02-02,Dependency,Open,Critical,L. Brown,2026-05-17,,Security review pending for integration approach,SyntheticPlanview
+LB-00561,PJ-300-02-02,Decision,Mitigated,High,R. Patel,2026-07-07,2026-08-03,Data mapping requires architecture decision,SyntheticPlanview
+LB-00562,PJ-100-01-03,Decision,Blocked,High,A. Smith,2026-06-27,,Change request approved by steering group,SyntheticPlanview
+LB-00563,PJ-300-01-01,Assumption,In Review,Low,K. Davis,2026-05-29,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00564,PJ-300-02-05,Risk,Mitigated,Medium,L. Brown,2026-01-07,2026-02-08,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00565,PJ-200-01-03,Assumption,In Review,High,R. Patel,2026-03-06,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00566,PJ-100-01-01,Assumption,Open,Medium,L. Brown,2026-07-09,,Change request approved by steering group,SyntheticPlanview
+LB-00567,PJ-100-02-05,Issue,Closed,High,K. Davis,2026-06-18,2026-07-12,Data mapping requires architecture decision,SyntheticPlanview
+LB-00568,PJ-300-01-02,Risk,Blocked,High,A. Smith,2026-02-16,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00569,PJ-300-02-04,Dependency,In Review,Critical,S. Jones,2026-08-28,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00570,PJ-300-03-03,Issue,In Review,High,A. Smith,2026-04-23,,Change request approved by steering group,SyntheticPlanview
+LB-00571,PJ-200-01-02,Risk,Open,Medium,S. Jones,2026-07-13,,Security review pending for integration approach,SyntheticPlanview
+LB-00572,PJ-300-01-01,Issue,Closed,Critical,K. Davis,2026-03-19,2026-04-23,Change request approved by steering group,SyntheticPlanview
+LB-00573,PJ-200-02-05,Assumption,Mitigated,Critical,A. Smith,2026-05-02,2026-05-12,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00574,PJ-200-03-04,Risk,Mitigated,Low,L. Brown,2026-04-08,2026-05-12,Change request approved by steering group,SyntheticPlanview
+LB-00575,PJ-200-02-03,Decision,Closed,High,R. Patel,2026-08-05,2026-09-14,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00576,PJ-100-02-02,Dependency,Blocked,Critical,K. Davis,2026-03-07,,Change request approved by steering group,SyntheticPlanview
+LB-00577,PJ-200-01-01,Issue,Blocked,High,K. Davis,2026-07-07,,Change request approved by steering group,SyntheticPlanview
+LB-00578,PJ-100-03-02,Risk,Blocked,Low,A. Smith,2026-03-22,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00579,PJ-200-03-02,Risk,Blocked,Critical,R. Patel,2026-01-26,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00580,PJ-200-01-04,Risk,In Review,Low,L. Brown,2026-03-06,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00581,PJ-100-01-04,Issue,Blocked,Low,K. Davis,2026-08-29,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00582,PJ-100-02-01,Issue,Blocked,Critical,K. Davis,2026-08-08,,Change request approved by steering group,SyntheticPlanview
+LB-00583,PJ-300-02-02,Risk,In Review,Medium,R. Patel,2026-07-25,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00584,PJ-200-03-05,Dependency,Open,High,S. Jones,2026-06-19,,Change request approved by steering group,SyntheticPlanview
+LB-00585,PJ-300-03-03,Issue,Mitigated,Low,R. Patel,2026-07-17,2026-08-03,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00586,PJ-200-02-05,Decision,Mitigated,High,M. Chen,2026-04-10,2026-04-14,Security review pending for integration approach,SyntheticPlanview
+LB-00587,PJ-100-01-05,Assumption,In Review,Critical,M. Chen,2026-05-06,,Change request approved by steering group,SyntheticPlanview
+LB-00588,PJ-300-01-02,Assumption,In Review,Critical,M. Chen,2026-01-28,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00589,PJ-300-03-02,Risk,Closed,Low,A. Smith,2026-01-28,2026-02-14,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00590,PJ-300-02-02,Risk,Mitigated,Critical,M. Chen,2026-07-06,2026-08-04,Change request approved by steering group,SyntheticPlanview
+LB-00591,PJ-300-03-01,Dependency,Open,High,M. Chen,2026-01-01,,Change request approved by steering group,SyntheticPlanview
+LB-00592,PJ-200-02-02,Risk,Closed,Critical,S. Jones,2026-08-20,2026-09-26,Security review pending for integration approach,SyntheticPlanview
+LB-00593,PJ-200-03-01,Assumption,Open,Medium,A. Smith,2026-08-05,,Security review pending for integration approach,SyntheticPlanview
+LB-00594,PJ-300-03-05,Assumption,Closed,High,R. Patel,2026-07-29,2026-08-06,Change request approved by steering group,SyntheticPlanview
+LB-00595,PJ-200-01-05,Risk,Open,High,L. Brown,2026-04-13,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00596,PJ-100-02-01,Issue,Closed,Medium,L. Brown,2026-08-04,2026-08-23,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00597,PJ-200-02-05,Decision,In Review,Critical,A. Smith,2026-06-19,,Change request approved by steering group,SyntheticPlanview
+LB-00598,PJ-300-03-05,Dependency,Closed,Medium,M. Chen,2026-04-02,2026-04-08,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00599,PJ-100-03-03,Issue,Blocked,Critical,S. Jones,2026-01-07,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00600,PJ-300-01-05,Assumption,Mitigated,Critical,A. Smith,2026-06-14,2026-07-16,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00601,PJ-200-02-02,Dependency,Mitigated,Low,M. Chen,2026-01-15,2026-01-18,Change request approved by steering group,SyntheticPlanview
+LB-00602,PJ-300-03-03,Assumption,Closed,Medium,K. Davis,2026-05-14,2026-06-27,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00603,PJ-100-03-05,Risk,Open,Medium,S. Jones,2026-08-25,,Change request approved by steering group,SyntheticPlanview
+LB-00604,PJ-100-01-02,Risk,Blocked,Medium,K. Davis,2026-05-01,,Change request approved by steering group,SyntheticPlanview
+LB-00605,PJ-100-02-04,Risk,In Review,High,A. Smith,2026-01-04,,Security review pending for integration approach,SyntheticPlanview
+LB-00606,PJ-300-02-05,Risk,Blocked,Low,A. Smith,2026-02-13,,Security review pending for integration approach,SyntheticPlanview
+LB-00607,PJ-300-02-04,Issue,Blocked,Low,M. Chen,2026-07-24,,Security review pending for integration approach,SyntheticPlanview
+LB-00608,PJ-200-02-02,Risk,Closed,Medium,R. Patel,2026-07-27,2026-08-17,Data mapping requires architecture decision,SyntheticPlanview
+LB-00609,PJ-100-01-03,Decision,In Review,Low,A. Smith,2026-06-01,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00610,PJ-100-02-05,Decision,Closed,Medium,S. Jones,2026-07-13,2026-07-24,Data mapping requires architecture decision,SyntheticPlanview
+LB-00611,PJ-300-02-03,Risk,In Review,Critical,M. Chen,2026-01-11,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00612,PJ-300-01-02,Risk,Open,Medium,A. Smith,2026-01-21,,Change request approved by steering group,SyntheticPlanview
+LB-00613,PJ-300-03-02,Dependency,Mitigated,Medium,M. Chen,2026-06-01,2026-06-28,Data mapping requires architecture decision,SyntheticPlanview
+LB-00614,PJ-300-03-01,Dependency,Blocked,Critical,M. Chen,2026-03-11,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00615,PJ-300-02-05,Assumption,Open,Medium,K. Davis,2026-06-27,,Security review pending for integration approach,SyntheticPlanview
+LB-00616,PJ-300-02-05,Dependency,Mitigated,Low,L. Brown,2026-01-23,2026-02-15,Data mapping requires architecture decision,SyntheticPlanview
+LB-00617,PJ-100-03-03,Risk,Blocked,High,L. Brown,2026-01-31,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00618,PJ-100-03-05,Decision,In Review,Low,M. Chen,2026-04-29,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00619,PJ-100-02-05,Issue,Closed,Medium,K. Davis,2026-06-25,2026-07-27,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00620,PJ-100-01-04,Issue,Mitigated,Critical,R. Patel,2026-06-15,2026-07-04,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00621,PJ-300-02-05,Risk,Closed,Low,L. Brown,2026-07-26,2026-07-29,Data mapping requires architecture decision,SyntheticPlanview
+LB-00622,PJ-100-03-01,Dependency,Open,Low,A. Smith,2026-07-21,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00623,PJ-200-03-04,Decision,Blocked,Critical,M. Chen,2026-06-01,,Change request approved by steering group,SyntheticPlanview
+LB-00624,PJ-300-03-04,Risk,Mitigated,High,M. Chen,2026-08-18,2026-09-02,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00625,PJ-200-01-01,Dependency,Closed,Medium,A. Smith,2026-07-08,2026-07-21,Security review pending for integration approach,SyntheticPlanview
+LB-00626,PJ-300-02-03,Dependency,Open,Medium,M. Chen,2026-05-05,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00627,PJ-200-03-05,Issue,Closed,Critical,K. Davis,2026-02-15,2026-03-11,Data mapping requires architecture decision,SyntheticPlanview
+LB-00628,PJ-300-03-01,Decision,Mitigated,Medium,A. Smith,2026-04-02,2026-04-15,Change request approved by steering group,SyntheticPlanview
+LB-00629,PJ-300-02-02,Risk,Mitigated,Critical,S. Jones,2026-01-16,2026-01-25,Security review pending for integration approach,SyntheticPlanview
+LB-00630,PJ-100-03-01,Decision,Mitigated,Medium,K. Davis,2026-07-14,2026-07-29,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00631,PJ-100-03-01,Issue,Blocked,Low,S. Jones,2026-05-28,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00632,PJ-300-01-02,Assumption,In Review,Critical,S. Jones,2026-08-09,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00633,PJ-100-01-01,Issue,Closed,High,S. Jones,2026-07-06,2026-07-22,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00634,PJ-100-03-05,Issue,Blocked,Low,S. Jones,2026-08-17,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00635,PJ-100-01-03,Risk,Blocked,Critical,L. Brown,2026-05-01,,Security review pending for integration approach,SyntheticPlanview
+LB-00636,PJ-300-01-01,Dependency,Open,Critical,M. Chen,2026-07-27,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00637,PJ-300-02-01,Dependency,Open,Medium,M. Chen,2026-07-12,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00638,PJ-200-01-04,Risk,Open,Critical,K. Davis,2026-03-03,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00639,PJ-100-03-01,Assumption,Closed,Low,S. Jones,2026-06-30,2026-08-06,Security review pending for integration approach,SyntheticPlanview
+LB-00640,PJ-100-02-04,Decision,Closed,Critical,K. Davis,2026-08-12,2026-08-24,Change request approved by steering group,SyntheticPlanview
+LB-00641,PJ-100-01-01,Dependency,Open,High,L. Brown,2026-08-09,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00642,PJ-200-01-04,Assumption,Mitigated,Medium,K. Davis,2026-04-20,2026-06-04,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00643,PJ-300-02-05,Assumption,Mitigated,High,A. Smith,2026-08-14,2026-08-18,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00644,PJ-200-02-05,Risk,Closed,High,R. Patel,2026-04-04,2026-05-14,Data mapping requires architecture decision,SyntheticPlanview
+LB-00645,PJ-300-03-02,Assumption,Open,Medium,M. Chen,2026-05-24,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00646,PJ-200-01-01,Dependency,Open,Medium,K. Davis,2026-05-19,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00647,PJ-200-02-01,Dependency,Mitigated,High,A. Smith,2026-04-01,2026-05-04,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00648,PJ-200-02-04,Assumption,Closed,Low,S. Jones,2026-03-30,2026-05-01,Change request approved by steering group,SyntheticPlanview
+LB-00649,PJ-300-01-05,Decision,Blocked,Critical,L. Brown,2026-06-23,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00650,PJ-300-03-04,Issue,Open,Critical,A. Smith,2026-06-27,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00651,PJ-200-03-01,Decision,In Review,Low,A. Smith,2026-08-18,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00652,PJ-200-01-03,Dependency,In Review,Medium,M. Chen,2026-01-29,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00653,PJ-300-03-01,Assumption,Mitigated,Medium,S. Jones,2026-01-06,2026-02-02,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00654,PJ-200-03-02,Decision,Open,Medium,A. Smith,2026-04-24,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00655,PJ-100-03-05,Decision,Blocked,Critical,L. Brown,2026-08-02,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00656,PJ-300-03-02,Assumption,Mitigated,Critical,S. Jones,2026-06-15,2026-07-17,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00657,PJ-300-02-02,Decision,Mitigated,Medium,S. Jones,2026-02-03,2026-02-14,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00658,PJ-200-01-04,Issue,Open,High,R. Patel,2026-07-17,,Security review pending for integration approach,SyntheticPlanview
+LB-00659,PJ-100-03-01,Assumption,In Review,High,M. Chen,2026-06-08,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00660,PJ-300-03-05,Issue,In Review,Medium,A. Smith,2026-08-20,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00661,PJ-200-02-01,Dependency,In Review,High,R. Patel,2026-05-28,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00662,PJ-100-03-04,Decision,Open,High,M. Chen,2026-05-24,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00663,PJ-200-03-04,Assumption,In Review,High,A. Smith,2026-05-19,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00664,PJ-200-03-01,Dependency,Closed,High,M. Chen,2026-08-27,2026-09-06,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00665,PJ-300-01-05,Decision,Mitigated,Critical,R. Patel,2026-05-10,2026-06-21,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00666,PJ-300-03-03,Dependency,Blocked,High,K. Davis,2026-02-07,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00667,PJ-300-01-01,Issue,Open,Low,R. Patel,2026-08-19,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00668,PJ-200-03-01,Dependency,In Review,High,A. Smith,2026-06-08,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00669,PJ-100-01-04,Assumption,In Review,Medium,R. Patel,2026-06-05,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00670,PJ-100-01-02,Dependency,Blocked,Low,L. Brown,2026-01-22,,Security review pending for integration approach,SyntheticPlanview
+LB-00671,PJ-100-03-03,Assumption,Mitigated,Low,K. Davis,2026-05-06,2026-06-14,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00672,PJ-200-03-01,Dependency,Closed,High,A. Smith,2026-02-07,2026-03-03,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00673,PJ-200-02-03,Assumption,Mitigated,Low,M. Chen,2026-03-31,2026-04-29,Change request approved by steering group,SyntheticPlanview
+LB-00674,PJ-200-03-04,Decision,Closed,Medium,K. Davis,2026-07-09,2026-08-07,Security review pending for integration approach,SyntheticPlanview
+LB-00675,PJ-200-03-02,Assumption,Blocked,Low,M. Chen,2026-02-05,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00676,PJ-200-01-05,Decision,Blocked,Low,L. Brown,2026-05-02,,Security review pending for integration approach,SyntheticPlanview
+LB-00677,PJ-100-02-01,Decision,Closed,Critical,M. Chen,2026-01-02,2026-02-12,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00678,PJ-200-03-05,Issue,Blocked,Medium,M. Chen,2026-07-01,,Security review pending for integration approach,SyntheticPlanview
+LB-00679,PJ-200-01-04,Decision,Closed,High,S. Jones,2026-05-22,2026-05-25,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00680,PJ-200-03-05,Risk,Open,Medium,R. Patel,2026-02-27,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00681,PJ-300-03-01,Decision,Closed,Critical,M. Chen,2026-08-02,2026-08-10,Security review pending for integration approach,SyntheticPlanview
+LB-00682,PJ-300-03-05,Risk,In Review,Low,R. Patel,2026-06-15,,Security review pending for integration approach,SyntheticPlanview
+LB-00683,PJ-100-01-05,Dependency,Mitigated,Critical,R. Patel,2026-06-03,2026-07-11,Change request approved by steering group,SyntheticPlanview
+LB-00684,PJ-300-03-04,Decision,Open,Low,R. Patel,2026-05-02,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00685,PJ-300-02-03,Decision,In Review,Critical,K. Davis,2026-01-15,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00686,PJ-200-02-03,Decision,Open,High,S. Jones,2026-02-11,,Change request approved by steering group,SyntheticPlanview
+LB-00687,PJ-200-02-03,Assumption,Mitigated,Low,L. Brown,2026-01-13,2026-02-01,Data mapping requires architecture decision,SyntheticPlanview
+LB-00688,PJ-300-03-01,Assumption,Open,Medium,L. Brown,2026-02-16,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00689,PJ-200-02-01,Decision,Mitigated,Low,L. Brown,2026-07-31,2026-08-18,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00690,PJ-200-02-03,Risk,In Review,Medium,L. Brown,2026-07-30,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00691,PJ-200-02-04,Decision,Closed,Medium,A. Smith,2026-07-19,2026-08-15,Data mapping requires architecture decision,SyntheticPlanview
+LB-00692,PJ-100-02-05,Issue,In Review,Low,S. Jones,2026-05-09,,Security review pending for integration approach,SyntheticPlanview
+LB-00693,PJ-100-01-05,Risk,In Review,Critical,R. Patel,2026-01-30,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00694,PJ-300-03-05,Dependency,In Review,High,M. Chen,2026-04-03,,Change request approved by steering group,SyntheticPlanview
+LB-00695,PJ-200-01-05,Issue,Open,Medium,K. Davis,2026-01-08,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00696,PJ-300-03-05,Issue,Mitigated,Medium,A. Smith,2026-02-28,2026-03-09,Security review pending for integration approach,SyntheticPlanview
+LB-00697,PJ-300-03-05,Risk,Open,Low,S. Jones,2026-07-15,,Security review pending for integration approach,SyntheticPlanview
+LB-00698,PJ-100-01-03,Risk,Open,Low,S. Jones,2026-02-20,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00699,PJ-200-01-02,Decision,Open,Low,A. Smith,2026-01-12,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00700,PJ-300-02-04,Issue,Blocked,Medium,K. Davis,2026-02-22,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00701,PJ-100-01-02,Decision,In Review,High,R. Patel,2026-01-24,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00702,PJ-300-01-03,Issue,Blocked,Low,A. Smith,2026-07-19,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00703,PJ-100-01-01,Issue,In Review,High,M. Chen,2026-05-16,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00704,PJ-100-01-01,Issue,Open,Critical,R. Patel,2026-07-05,,Change request approved by steering group,SyntheticPlanview
+LB-00705,PJ-300-02-03,Risk,Closed,Medium,R. Patel,2026-02-17,2026-04-02,Security review pending for integration approach,SyntheticPlanview
+LB-00706,PJ-200-03-03,Issue,Blocked,Critical,A. Smith,2026-02-24,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00707,PJ-100-02-03,Assumption,Open,Medium,S. Jones,2026-04-30,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00708,PJ-200-01-04,Risk,Open,High,S. Jones,2026-05-23,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00709,PJ-200-02-05,Decision,Closed,Critical,M. Chen,2026-03-14,2026-04-22,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00710,PJ-200-03-02,Risk,Closed,Critical,K. Davis,2026-03-16,2026-03-29,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00711,PJ-100-03-02,Risk,Closed,Critical,S. Jones,2026-01-04,2026-02-17,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00712,PJ-300-03-03,Risk,Open,Medium,S. Jones,2026-06-23,,Security review pending for integration approach,SyntheticPlanview
+LB-00713,PJ-300-03-05,Issue,Open,Low,R. Patel,2026-06-01,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00714,PJ-200-02-02,Dependency,Blocked,Low,M. Chen,2026-02-21,,Security review pending for integration approach,SyntheticPlanview
+LB-00715,PJ-300-01-02,Assumption,Blocked,High,K. Davis,2026-03-13,,Security review pending for integration approach,SyntheticPlanview
+LB-00716,PJ-200-02-03,Dependency,Blocked,Critical,L. Brown,2026-05-02,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00717,PJ-100-02-05,Risk,Closed,High,S. Jones,2026-07-16,2026-07-23,Security review pending for integration approach,SyntheticPlanview
+LB-00718,PJ-100-03-05,Risk,In Review,Low,K. Davis,2026-06-10,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00719,PJ-100-01-05,Issue,Open,Critical,L. Brown,2026-05-08,,Change request approved by steering group,SyntheticPlanview
+LB-00720,PJ-200-02-01,Assumption,Mitigated,Low,A. Smith,2026-02-09,2026-03-21,Change request approved by steering group,SyntheticPlanview
+LB-00721,PJ-300-01-04,Issue,Closed,High,K. Davis,2026-07-16,2026-08-15,Security review pending for integration approach,SyntheticPlanview
+LB-00722,PJ-300-01-02,Decision,Mitigated,Low,A. Smith,2026-05-10,2026-06-14,Security review pending for integration approach,SyntheticPlanview
+LB-00723,PJ-100-02-03,Dependency,Closed,Critical,S. Jones,2026-04-09,2026-04-30,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00724,PJ-100-01-03,Decision,Blocked,Medium,S. Jones,2026-02-15,,Security review pending for integration approach,SyntheticPlanview
+LB-00725,PJ-100-02-04,Risk,Closed,Critical,K. Davis,2026-03-21,2026-04-22,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00726,PJ-300-03-04,Dependency,Blocked,Critical,L. Brown,2026-05-19,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00727,PJ-300-01-03,Dependency,Closed,Critical,L. Brown,2026-01-15,2026-02-01,Change request approved by steering group,SyntheticPlanview
+LB-00728,PJ-200-02-03,Risk,Mitigated,Low,L. Brown,2026-07-16,2026-08-06,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00729,PJ-100-02-04,Assumption,Mitigated,Low,K. Davis,2026-08-03,2026-08-26,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00730,PJ-200-02-05,Decision,Closed,Critical,R. Patel,2026-01-25,2026-02-17,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00731,PJ-300-03-03,Issue,In Review,High,L. Brown,2026-03-04,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00732,PJ-300-03-05,Decision,Mitigated,Medium,A. Smith,2026-01-17,2026-01-25,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00733,PJ-200-02-01,Dependency,Closed,Critical,R. Patel,2026-01-10,2026-02-22,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00734,PJ-300-03-05,Risk,Blocked,High,S. Jones,2026-05-01,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00735,PJ-200-02-05,Risk,Blocked,Critical,A. Smith,2026-03-24,,Change request approved by steering group,SyntheticPlanview
+LB-00736,PJ-300-03-04,Assumption,Mitigated,High,M. Chen,2026-02-22,2026-03-26,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00737,PJ-200-01-05,Dependency,Closed,Low,L. Brown,2026-04-04,2026-04-17,Data mapping requires architecture decision,SyntheticPlanview
+LB-00738,PJ-200-01-04,Decision,Open,Critical,M. Chen,2026-03-09,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00739,PJ-100-02-01,Risk,Blocked,High,R. Patel,2026-07-03,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00740,PJ-300-02-02,Dependency,Blocked,Critical,M. Chen,2026-07-25,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00741,PJ-100-01-05,Decision,Mitigated,Critical,K. Davis,2026-06-16,2026-07-19,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00742,PJ-200-02-01,Decision,Closed,Critical,K. Davis,2026-02-21,2026-03-19,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00743,PJ-100-03-02,Assumption,Open,Medium,L. Brown,2026-08-14,,Security review pending for integration approach,SyntheticPlanview
+LB-00744,PJ-100-03-04,Assumption,Closed,Critical,L. Brown,2026-06-19,2026-07-07,Change request approved by steering group,SyntheticPlanview
+LB-00745,PJ-300-03-01,Issue,Blocked,High,S. Jones,2026-01-16,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00746,PJ-200-01-01,Dependency,Mitigated,High,A. Smith,2026-02-08,2026-03-08,Change request approved by steering group,SyntheticPlanview
+LB-00747,PJ-100-03-04,Decision,Closed,Medium,R. Patel,2026-08-05,2026-08-23,Change request approved by steering group,SyntheticPlanview
+LB-00748,PJ-300-02-04,Risk,Closed,Medium,M. Chen,2026-03-02,2026-03-18,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00749,PJ-200-01-01,Dependency,Mitigated,Critical,S. Jones,2026-07-24,2026-08-23,Change request approved by steering group,SyntheticPlanview
+LB-00750,PJ-100-01-03,Decision,In Review,Medium,A. Smith,2026-02-21,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00751,PJ-200-01-03,Issue,Blocked,Low,K. Davis,2026-06-18,,Security review pending for integration approach,SyntheticPlanview
+LB-00752,PJ-100-01-02,Decision,Open,High,A. Smith,2026-01-15,,Security review pending for integration approach,SyntheticPlanview
+LB-00753,PJ-200-02-04,Dependency,Open,Medium,M. Chen,2026-06-21,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00754,PJ-300-02-02,Risk,Blocked,High,S. Jones,2026-07-08,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00755,PJ-200-01-01,Decision,Open,High,L. Brown,2026-06-03,,Change request approved by steering group,SyntheticPlanview
+LB-00756,PJ-200-02-05,Dependency,In Review,Medium,M. Chen,2026-07-26,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00757,PJ-100-03-02,Dependency,Mitigated,High,L. Brown,2026-02-24,2026-03-25,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00758,PJ-300-01-02,Risk,Mitigated,High,L. Brown,2026-05-17,2026-07-01,Security review pending for integration approach,SyntheticPlanview
+LB-00759,PJ-300-01-01,Decision,In Review,Medium,R. Patel,2026-06-24,,Security review pending for integration approach,SyntheticPlanview
+LB-00760,PJ-200-02-04,Assumption,Mitigated,Low,K. Davis,2026-07-30,2026-08-01,Change request approved by steering group,SyntheticPlanview
+LB-00761,PJ-100-01-04,Decision,In Review,Critical,R. Patel,2026-06-26,,Change request approved by steering group,SyntheticPlanview
+LB-00762,PJ-300-03-05,Assumption,Open,Medium,S. Jones,2026-04-03,,Security review pending for integration approach,SyntheticPlanview
+LB-00763,PJ-100-01-01,Decision,Closed,Low,M. Chen,2026-08-21,2026-09-07,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00764,PJ-100-03-04,Dependency,In Review,High,K. Davis,2026-08-09,,Security review pending for integration approach,SyntheticPlanview
+LB-00765,PJ-100-01-03,Dependency,Open,Critical,K. Davis,2026-03-12,,Security review pending for integration approach,SyntheticPlanview
+LB-00766,PJ-200-02-02,Issue,Closed,High,L. Brown,2026-07-03,2026-07-10,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00767,PJ-200-02-03,Assumption,Blocked,High,S. Jones,2026-04-18,,Change request approved by steering group,SyntheticPlanview
+LB-00768,PJ-100-01-02,Issue,Open,Critical,K. Davis,2026-07-15,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00769,PJ-100-01-01,Decision,In Review,High,L. Brown,2026-04-13,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00770,PJ-100-02-03,Assumption,In Review,Medium,L. Brown,2026-02-10,,Change request approved by steering group,SyntheticPlanview
+LB-00771,PJ-200-03-02,Dependency,Mitigated,Medium,R. Patel,2026-07-22,2026-08-20,Data mapping requires architecture decision,SyntheticPlanview
+LB-00772,PJ-300-03-04,Issue,Mitigated,Low,S. Jones,2026-06-01,2026-06-20,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00773,PJ-100-03-02,Issue,Closed,Low,A. Smith,2026-04-11,2026-05-18,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00774,PJ-300-03-02,Risk,In Review,Critical,M. Chen,2026-06-06,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00775,PJ-300-03-05,Risk,In Review,Critical,L. Brown,2026-08-07,,Security review pending for integration approach,SyntheticPlanview
+LB-00776,PJ-300-02-04,Risk,In Review,High,M. Chen,2026-03-08,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00777,PJ-100-02-03,Dependency,Blocked,Critical,K. Davis,2026-01-04,,Security review pending for integration approach,SyntheticPlanview
+LB-00778,PJ-100-02-03,Issue,In Review,High,R. Patel,2026-02-27,,Change request approved by steering group,SyntheticPlanview
+LB-00779,PJ-300-01-02,Dependency,In Review,Medium,L. Brown,2026-04-08,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00780,PJ-200-01-04,Dependency,In Review,Medium,S. Jones,2026-07-06,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00781,PJ-100-01-02,Assumption,Mitigated,Critical,M. Chen,2026-03-16,2026-04-01,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00782,PJ-300-02-03,Risk,Closed,Critical,M. Chen,2026-06-25,2026-07-01,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00783,PJ-300-03-05,Dependency,In Review,Critical,K. Davis,2026-04-12,,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00784,PJ-200-01-02,Assumption,Open,Low,A. Smith,2026-01-19,,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00785,PJ-200-01-01,Assumption,Mitigated,Low,A. Smith,2026-05-01,2026-06-09,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00786,PJ-300-01-03,Dependency,Closed,High,M. Chen,2026-06-08,2026-06-28,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00787,PJ-100-01-03,Decision,In Review,Medium,L. Brown,2026-05-29,,Security review pending for integration approach,SyntheticPlanview
+LB-00788,PJ-200-02-02,Risk,Closed,High,K. Davis,2026-08-13,2026-08-22,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00789,PJ-200-03-03,Decision,Mitigated,Low,M. Chen,2026-02-06,2026-02-14,Security review pending for integration approach,SyntheticPlanview
+LB-00790,PJ-200-01-03,Decision,Mitigated,High,L. Brown,2026-07-11,2026-08-08,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00791,PJ-300-01-04,Decision,Closed,Critical,M. Chen,2026-03-22,2026-04-02,Implementation team blocked by missing requirement,SyntheticPlanview
+LB-00792,PJ-300-03-03,Issue,Closed,Medium,A. Smith,2026-06-12,2026-06-16,Data mapping requires architecture decision,SyntheticPlanview
+LB-00793,PJ-100-03-02,Issue,Closed,Critical,S. Jones,2026-01-10,2026-01-27,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00794,PJ-300-01-02,Assumption,Closed,Critical,S. Jones,2026-01-11,2026-02-03,Security review pending for integration approach,SyntheticPlanview
+LB-00795,PJ-100-02-03,Risk,In Review,High,A. Smith,2026-08-05,,Data mapping requires architecture decision,SyntheticPlanview
+LB-00796,PJ-200-01-04,Assumption,In Review,High,L. Brown,2026-02-16,,Change request approved by steering group,SyntheticPlanview
+LB-00797,PJ-300-02-03,Risk,Blocked,Medium,S. Jones,2026-02-24,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00798,PJ-200-01-01,Risk,Closed,High,A. Smith,2026-07-16,2026-08-29,Budget variance requires follow-up with finance,SyntheticPlanview
+LB-00799,PJ-300-03-04,Dependency,Open,High,L. Brown,2026-06-24,,Vendor dependency may impact release schedule,SyntheticPlanview
+LB-00800,PJ-200-02-01,Risk,Open,Critical,K. Davis,2026-02-09,,Change request approved by steering group,SyntheticPlanview

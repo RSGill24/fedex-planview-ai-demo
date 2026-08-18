@@ -1,0 +1,10 @@
+objective_id,portfolio_id,objective_name,key_result,target_value,current_value,status
+OKR-0001,PF-100,Improve Network Modernization outcome 1,KR 1: achieve measurable improvement,100,86,On Track
+OKR-0002,PF-100,Improve Network Modernization outcome 2,KR 2: achieve measurable improvement,100,47,At Risk
+OKR-0003,PF-100,Improve Network Modernization outcome 3,KR 3: achieve measurable improvement,100,85,On Track
+OKR-0004,PF-200,Improve Operational Excellence outcome 1,KR 1: achieve measurable improvement,100,75,Off Track
+OKR-0005,PF-200,Improve Operational Excellence outcome 2,KR 2: achieve measurable improvement,100,55,On Track
+OKR-0006,PF-200,Improve Operational Excellence outcome 3,KR 3: achieve measurable improvement,100,54,At Risk
+OKR-0007,PF-300,Improve Customer Experience outcome 1,KR 1: achieve measurable improvement,100,35,On Track
+OKR-0008,PF-300,Improve Customer Experience outcome 2,KR 2: achieve measurable improvement,100,80,At Risk
+OKR-0009,PF-300,Improve Customer Experience outcome 3,KR 3: achieve measurable improvement,100,72,On Track
